@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<img src="/sagittal.jpg"  height="200" />
 
 #### I am a medical image analysis researcher based in Copenhagen, Denmark.
 
