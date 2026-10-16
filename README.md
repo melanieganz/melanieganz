@@ -10,8 +10,7 @@
 - 📫 How to reach me: ganz AT di.ku.dk or mganz AT nru.dk
 
 #### Find me around the web 🌎:
-- 🌐 Updating my personal website with updates about my work on <a href="https://sites.google.com/view/melanieganz">Personal Homepage</a>
-- 🐦 Tweeting about neuroscience and the brain on <a href="https://twitter.com/melanieganzben1/">Twitter</a>
+- 🌐 Updating my personal website with updates about my work on <a href="https://melanieganz.github.io/">Personal Homepage</a>
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/melanieganzbenjaminsen/">LinkedIn</a>
 
 
